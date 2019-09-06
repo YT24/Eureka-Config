@@ -14,6 +14,11 @@ public class EurekaConfigApplication {
 		
 		System.err.println("--------------eureka-------------");
 
+		
+		
+		
+		
+		
 		System.err.println("--------------hahaha-------------");
 
 	}
