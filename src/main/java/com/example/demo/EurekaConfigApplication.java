@@ -13,6 +13,7 @@ public class EurekaConfigApplication {
 
 		
 		System.err.println("--------------eureka-------------");
+		System.err.println("--------------321eureka123-------------");
 
 	}
 
