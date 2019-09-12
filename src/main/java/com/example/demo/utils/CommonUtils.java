@@ -66,7 +66,7 @@ public class CommonUtils {
 	public static String getPr_uid() {
 		UUID uuid = UUID.randomUUID();
 		String str = uuid.toString();
-		String pr_uid = str.replace("-", "").substring(0, str.replace("-", "").length() / 2);
+		String pr_uid = str.replace("-", "").substring(0, str.replace("-", "").length());
 		return pr_uid;
 	}
 
